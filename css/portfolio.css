@@ -1,0 +1,165 @@
+#topMenu {
+  background: url(http://www.colorhexa.com/090909.png) 50% fixed;
+}
+#Intro {
+  background: url(https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?q=80&fm=jpg&w=1080&fit=max&s=db1f62e1817c5a918e20913a3bf80c02) 100% fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  padding: 22% 0;
+  background-size: 100%;
+  color: white;
+}
+#Home {
+  background: url(http://comoficarrico.biz/wp-content/uploads/2014/01/Dark-Background-HD-Wallpaper-1920x1080.jpg) no-repeat 50% fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  background-size: 100%;
+  padding: 400px 0;
+  color: #FFF;
+}
+#portifolio {
+  background: url(http://observatoriodaconcorrencia.com.br/wp-content/uploads/2015/05/gray-bg_4.jpg) 50% fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  padding: 100px 0;
+  background-size: 80%;
+}
+#competences {
+  background: url(http://observatoriodaconcorrencia.com.br/wp-content/uploads/2015/05/gray-bg_4.jpg) 50% fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  padding: 200px 0;
+  background-size: 100%;
+  text-align: center;
+}
+#competences img {
+  width: 25%;
+  height: 25%;
+}
+
+#contact {
+  background: url(http://www.colorhexa.com/090909.png) 50% fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  padding: 20px 0;
+  color: #fff;
+}
+.titulo {
+  text-align: center;
+  font-size: 74px;
+  padding-bottom: 70px;
+}
+.subtitulo {
+  text-align: left;
+  font-size: 30px;
+  padding-left: 12%;
+  margin-top: -100px;
+}
+.photo {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  border: 2px solid;
+  box-shadow: 0 0 10px;
+}
+.botoesSocialLink:focus {
+  outline: 0 !Important;
+}
+.botoesSocialLink:active {
+  outline: none !Important;
+}
+.botoesSocial {
+  border: solid 2px;
+  background-color: black;
+  color: grey;
+  border-radius: 10%;
+}
+.botoesSocial:hover {
+  color: white;
+}
+.botoesSocial:active {
+  outline: 0 !Important;
+}
+.botoesSocial:focus {
+  outline: 0 !Important;
+  color: grey;
+}
+.p35 {
+  padding-top: 35px;
+}
+body {overflow-x: hidden;}
+
+.painelPortifolio {
+  background-color: #fefeff;
+  border: 1px solid #EEE;
+  box-shadow: 0px 0px 1px 0px;
+}
+
+.painelPortifolio .col-md-4 {
+
+}
+
+.portifolioThumb {
+  text-align: center;
+  border: 1px solid #fefeff;
+  padding-top: 15px;
+  margin-top: 15px;
+  box-shadow: 0px 0px 8px -4px;
+  background-color: #fff;
+}
+
+.portifolioThumb:hover {
+  background-color: #fbfafa;
+}
+
+.portifolioThumb a {
+  text-decoration: none;
+}
+
+.portifolioThumb img {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 15px;
+}
+
+.portifolioThumb h4 {
+    color: #544d4d;
+    font-weight: bold;
+}
+
+.portifolioThumb h4:hover {
+    color: #544d4d;
+    font-weight: bold;
+}
+
+#contact .botoesSocial {
+ padding: 6px 9px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+/*
+.navbar-default a {
+  color: #fff !Important;
+}
+*/
