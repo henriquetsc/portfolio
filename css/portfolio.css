@@ -76,6 +76,11 @@
   border: 2px solid;
   box-shadow: 0 0 10px;
 }
+.about {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 60px;
+}
 .botoesSocialLink:focus {
   outline: 0 !Important;
 }
